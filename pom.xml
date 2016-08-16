@@ -39,7 +39,7 @@
 <repository>
 <id>abc-release</id>
 <url>
-http://localhost:8081/nexus/content/repositories/abc-release
+http://node01.example.com:8081/nexus/content/repositories/abc-release
 </url>
 </repository>
 <!-- repo for SNAPSHOT artifact distribution -->
